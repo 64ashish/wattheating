@@ -12,44 +12,14 @@
 
 <body>
 <header>
-{{--    Ribbon small screen --}}
-    <div class="flex text-sm  text-white font-normal lg:hidden">
-        <div class="bg-[#005874] h-10 w-1/2 flex  justify-center items-center">
-            <a href="#">
-                Privatperson
-            </a>
-        </div>
-        <div class="bg-[#00B5CB] h-10 w-1/2 flex justify-center items-center">
-            <a href="#">
-                Företag
-            </a>
-        </div>
-    </div>
-{{--  Ribbon large screen --}}
-    <div class="hidden lg:block">
-        <div class="h-10 text-sm text-center bg-[#005874] text-white flex items-center justify-center">
-            SNABBA LEVERANSER | ÖVER 50.000 RADIATORER I LAGER
-        </div>
-    </div>
+{{--    Ribbon --}}
+    <x-ribbon></x-ribbon>
 {{-- Navigation --}}
-    <nav>
-        <div class="h-24">
-            <div>
-                <div>
-                    <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" class="w-6 h-6">
-                        <path stroke-linecap="round" stroke-linejoin="round" d="M3.75 6.75h16.5M3.75 12h16.5m-16.5 5.25h16.5" />
-                    </svg>
-                </div>
-                <div>
-                    <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" class="w-6 h-6">
-                        <path stroke-linecap="round" stroke-linejoin="round" d="M21 21l-5.197-5.197m0 0A7.5 7.5 0 105.196 5.196a7.5 7.5 0 0010.607 10.607z" />
-                    </svg>
-                </div>
-            </div>
-        </div>
-    </nav>
+    <x-header-menu></x-header-menu>
 </header>
 
     {{ $slot }}
+
+<x-footer-block></x-footer-block>
 </body>
 </html>
