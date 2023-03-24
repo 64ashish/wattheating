@@ -11,7 +11,8 @@
 </head>
 
 <body>
-<header>
+<header
+    class="fixed z-50 w-full bg-white">
 {{--    Ribbon --}}
     <x-ribbon></x-ribbon>
 {{-- Navigation --}}

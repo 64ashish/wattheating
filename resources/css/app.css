@@ -15,4 +15,7 @@
     .text-overlay-box:hover>*{
         display: block;
     }
+    .contact-plug{
+        background-image: url("http://wattheating.test/images/watt_road.png");
+    }
 }

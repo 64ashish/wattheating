@@ -6,7 +6,12 @@ module.exports = {
         "./resources/**/*.vue",
     ],
   theme: {
-    extend: {},
+      extend: {
+          padding: {
+              '1/2': '50%',
+              full: '100%',
+          },
+      },
   },
   plugins: [
       require('@tailwindcss/forms')

@@ -1,4 +1,4 @@
-<div>
+<div class="pt-[110px]">
     <div class="w-full overflow-hidden flex items-center justify-center">
         <div class="z-10 absolute">
             <h1 class="text-white font-bold text-4xl text-center">

@@ -6,19 +6,14 @@ use Closure;
 use Illuminate\Contracts\View\View;
 use Illuminate\View\Component;
 
-class TextOverlayBox extends Component
+class ContactPlug extends Component
 {
     /**
      * Create a new component instance.
      */
-    public function __construct(
-        public string $title,
-        public string $image,
-        public string $url
-    )
+    public function __construct()
     {
         //
-
     }
 
     /**
@@ -26,6 +21,6 @@ class TextOverlayBox extends Component
      */
     public function render(): View|Closure|string
     {
-        return view('components.text-overlay-box');
+        return view('components.contact-plug');
     }
 }
