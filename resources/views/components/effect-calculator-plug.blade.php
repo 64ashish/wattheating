@@ -2,10 +2,10 @@
     <div class="lg:col-span-4">
         <img src="/images/bild50.jpeg" class="h-[300px] w-full  lg:h-[491px] object-cover">
     </div>
-    <div class="py-[75px] pl-12 pr-10 lg:col-span-2  flex justify-center flex-col">
+    <div class="py-[75px] pl-24 pr-11 lg:col-span-3  flex justify-center flex-col">
         <div class="">
-          <h1 class="text-3xl lg:text-4xl font-bold mb-7">  Prova vår effektkalkylator</h1>
-            <p class="mt-0.5 text-sm mb-8">
+          <p class="text-3xl lg:text-4xl font-semibold mb-7">  Prova vår effektkalkylator</p>
+            <p class="mt-0.5 text-lg mb-8">
                 Med vår effektkalkylator kan du direkt på vår hemsida räkna ut vilken produkt som passar bäst för dina behov.
             </p>
 

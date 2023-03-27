@@ -1,10 +1,10 @@
 <div class="pt-[110px]">
     <div class="w-full overflow-hidden flex items-center justify-center">
         <div class="z-10 absolute">
-            <h1 class="text-white font-bold text-4xl text-center">
+            <h1 class="text-white font-semibold text-4xl text-center">
                 Företagskund
             </h1>
-            <p class="text-white my-5 text-lg text-center">
+            <p class="text-white my-5 text-lg font-thin	 text-center">
                 Watt Heating finns alltid här för dig!
             </p>
             <div class="hidden lg:block">
@@ -22,7 +22,7 @@
         </div>
 
     {{--    <iframe class="h-[64vh] w-full object-fill" width="100%" src="https://player.vimeo.com/video/522856800?background=1&amp;autoplay=1&amp;loop=1&amp;byline=0&amp;title=0" frameborder="0" webkitallowfullscreen="" mozallowfullscreen="" allowfullscreen=""></iframe>--}}
-        <iframe class="w-screen h-[45vw]" width="100%"
+        <iframe class="w-screen h-[42vw]" width="100%"
             src="https://player.vimeo.com/video/522856800?background=1&amp;autoplay=1&amp;loop=1&amp;byline=0&amp;title=0" frameborder="0" webkitallowfullscreen="" mozallowfullscreen="" allowfullscreen=""></iframe>
     </div>
 </div>

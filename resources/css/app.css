@@ -3,12 +3,18 @@
 @tailwind utilities;
 
 @layer base {
+    @font-face {
+        font-family: TTProstoSansBold;
+        src: url("http://wattheating.test/fonts/TTProstoSansBold.woff2") format("woff2"),url("http://wattheating.test/fonts/font.4a42d1cc.woff") format("woff")
+    }
     html {
         font-family: museo-sans,Montserrat,Arial,sans-serif;
-        font-size: 18px;
+        /*font-size: 18px;*/
+        color:#292929;
     }
 
     h1,h2,h3,h4,h5,h6  {
+
         font-family: TTProstoSansBold,Montserrat,Arial,sans-serif;
     }
 

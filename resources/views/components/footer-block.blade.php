@@ -1,5 +1,5 @@
 <footer class="bg-[#f9f9f9]   px-4">
-    <div class="grid grid-cols-1  md:grid-cols-4 max-w-[2026px] m-auto pt-24 gap-x-16">
+    <div class="grid grid-cols-1  lg:grid-cols-4 max-w-[2026px] m-auto pt-24 gap-x-16">
         <div class=" mb-9">
             <p class="text-base"><strong>Watt Heating</strong> jobbar med ett modernt säljsätt där de som vill köpa våra produkter är välkomna att höra av
                 sig. Vår fokus ligger på svensk proffsmarknad men leveranser sker i hela Norden.
