@@ -8,6 +8,7 @@
         src: url("http://wattheating.test/fonts/TTProstoSansBold.woff2") format("woff2"),url("http://wattheating.test/fonts/font.4a42d1cc.woff") format("woff")
     }
     html {
+        @apply antialiased;
         font-family: museo-sans,Montserrat,Arial,sans-serif;
         /*font-size: 18px;*/
         color:#292929;

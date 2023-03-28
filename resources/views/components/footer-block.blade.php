@@ -8,43 +8,43 @@
         <div class="mb-9">
             <h2 class="text-[22px] font-semibold mb-6">Vårt nyhetsbrev
             </h2>
-            <p class="mb-6">
+            <p class="mb-6 text-lg">
                 Klicka här om du önskar få vårt uppskattade nyhetsbrev.
             </p>
             <div class="flex">
-                <a href="#"  class="border border-[#292929] py-3 px-9	text-center text-lg rounded-full w-full">
-                    Prova nu
+                <a href="#"  class="border border-[#292929] py-2 px-9	text-center text-lg rounded-full w-full">
+                    Prenumerera
                 </a>
             </div>
         </div>
         <div class="mb-9">
 
             <h2 class="text-[22px] font-semibold mb-6">Produkter</h2>
-            <ul>
-                <li>Radiatorer</li>
-                <li>Konvektorer</li>
-                <li>Handdukstorkar</li>
-                <li>Tillbehör</li>
+            <ul class="text-lg">
+                <li class="leading-[42px]">Radiatorer</li>
+                <li class="leading-[42px]">Konvektorer</li>
+                <li class="leading-[42px]">Handdukstorkar</li>
+                <li class="leading-[42px]">Tillbehör</li>
             </ul>
 
         </div>
         <div class="mb-9">
             <h2 class="text-[22px] font-semibold mb-6">Kontakta oss</h2>
-            <p>Tel: 0413-664 60</p>
+            <p class="pb-11">Tel: 0413-664 60</p>
 
 
             <a>Skicka ett mail</a>
         </div>
     </div>
-    <div class="flex flex-col md:flex-row  text-xs font-light justify-between items-center border-t border-[#cacaca] py-4">
-        <div class="pb-5">
+    <div class="flex flex-col md:flex-row  text-xs  justify-between items-center border-t border-[#cacaca] py-4">
+        <div class="pb-5 pt-4 self-start">
             <img class=" h-[22px]"
-                 src="/images/watt-logo-full.png">
+                 src="/images/logo.svg">
         </div>
-        <p>Watt Heating AB, Transportvägen 7, 241 38 Eslöv, Sverige © 2023</p>
-        <div class="py-4">
+        <p class="self-start">Watt Heating AB, Transportvägen 7, 241 38 Eslöv, Sverige © 2023</p>
+        <div class="py-4 self-start flex gap-5">
             <a>Integritetspolicy</a>
-            <a>Cookiepolic</a>
+            <a>Cookie policy</a>
         </div>
     </div>
 </footer>

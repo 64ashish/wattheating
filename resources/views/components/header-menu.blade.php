@@ -14,7 +14,7 @@
         </div>
 
         <div class="flex justify-center ">
-            <img class="max-h-9 object-cover" src="/images/watt-logo-full.png" >
+            <img class="max-h-9 object-cover" src="/images/logo.svg" >
         </div>
 
         <div class="flex justify-end">
@@ -29,11 +29,11 @@
 
     <div class=" hidden lg:grid grid-cols-6 px-[10%] h-[106px] items-center">
         <div class="col-span-2">
-            <img class="max-h-[30px] object-cover" src="/images/watt-logo-full.png" >
+            <img class="max-h-[30px] object-cover" src="/images/logo.svg" >
         </div>
         <div class="col-span-4 flex items-center justify-end">
             <div class="inline-flex mr-11">
-                <ul class="inline-flex gap-x-10 text-[#005874] font-semibold	">
+                <ul class="inline-flex gap-x-10 text-[#005874] font-semibold text-lg	">
                     <li>Våra produkter</li>
                     <li class="text-[#00000033]">|</li>
                     <li>Privatkund?</li>

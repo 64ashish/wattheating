@@ -4,7 +4,7 @@
             <h1 class="text-white font-semibold text-4xl text-center">
                 Företagskund
             </h1>
-            <p class="text-white my-5 text-lg font-thin	 text-center">
+            <p class="text-white my-5 text-lg font-light text-center">
                 Watt Heating finns alltid här för dig!
             </p>
             <div class="hidden lg:block">
