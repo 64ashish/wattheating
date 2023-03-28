@@ -1,5 +1,5 @@
 <footer class="bg-[#f9f9f9] px-4  lg:px-[10%]">
-    <div class="grid grid-cols-1  lg:grid-cols-4 max-w-[2026px] m-auto pt-24 gap-x-16">
+    <div class="grid grid-cols-1  lg:grid-cols-4 max-w-[2026px] m-auto pt-24 gap-x-10">
         <div class=" mb-9">
             <p class="text-base"><strong>Watt Heating</strong> jobbar med ett modernt säljsätt där de som vill köpa våra produkter är välkomna att höra av
                 sig. Vår fokus ligger på svensk proffsmarknad men leveranser sker i hela Norden.
@@ -37,12 +37,12 @@
         </div>
     </div>
     <div class="flex flex-col md:flex-row  text-xs  justify-between items-center border-t border-[#cacaca] py-4">
-        <div class="pb-5 pt-4 self-start">
+        <div class="pb-5 pt-4 self-start md:self-auto">
             <img class=" h-[22px]"
                  src="/images/logo.svg">
         </div>
-        <p class="self-start">Watt Heating AB, Transportvägen 7, 241 38 Eslöv, Sverige © 2023</p>
-        <div class="py-4 self-start flex gap-5">
+        <p class="self-start md:self-auto">Watt Heating AB, Transportvägen 7, 241 38 Eslöv, Sverige © 2023</p>
+        <div class="py-4 self-start md:self-auto flex gap-5">
             <a>Integritetspolicy</a>
             <a>Cookie policy</a>
         </div>
