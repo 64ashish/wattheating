@@ -1,4 +1,4 @@
-<footer class="bg-[#f9f9f9]   px-4">
+<footer class="bg-[#f9f9f9] px-4  lg:px-[10%]">
     <div class="grid grid-cols-1  lg:grid-cols-4 max-w-[2026px] m-auto pt-24 gap-x-16">
         <div class=" mb-9">
             <p class="text-base"><strong>Watt Heating</strong> jobbar med ett modernt säljsätt där de som vill köpa våra produkter är välkomna att höra av

@@ -13,4 +13,14 @@ class HomeController extends Controller
     {
         return view('pages.index');
     }
+
+    public function categories():view
+    {
+        return view('pages.category');
+    }
+
+    public function product():view
+    {
+        return view('pages.product');
+    }
 }
