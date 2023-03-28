@@ -1,5 +1,5 @@
 <nav>
-    <div class="h-20 px-4 grid grid-cols-3 items-center lg:hidden">
+    <div class="h-[82px] px-4 grid grid-cols-3 items-center lg:hidden">
         <div class="flex gap-x-9">
             <div>
                 <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" class="w-7 h-7 stroke-[#005874]">
@@ -27,7 +27,7 @@
         </div>
     </div>
 
-    <div class=" hidden lg:grid grid-cols-6 px-[10%] h-20 items-center">
+    <div class=" hidden lg:grid grid-cols-6 px-[10%] h-[106px] items-center">
         <div class="col-span-2">
             <img class="max-h-[30px] object-cover" src="/images/watt-logo-full.png" >
         </div>
