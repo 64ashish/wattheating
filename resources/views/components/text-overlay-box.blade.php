@@ -11,7 +11,7 @@
 
 <div class="w-full h-0  pb-full bg-[#f9f9f9] relative bg-no-repeat bg-center bg-contain"
         style="background-image:url({{ $image }})">
-        <a href="{ $url }}"
+        <a href="{{ $url }}"
         class="text-overlay-box absolute  top-0 left-0 right-0 bottom-0 hover:bg-[#00b5cbcc] text-white flex flex-col
         justify-center items-center">
             <p class="hidden text-[26px] font-semibold">{{ $title }}</p>
