@@ -19,3 +19,11 @@ Route::get('/', [HomeController::class, 'index']);
 Route::get('/categories', [HomeController::class, 'categories']);
 
 Route::get('/product', [HomeController::class, 'product']);
+
+Route::get('/om-watt', [HomeController::class, 'about']);
+
+Route::get('/om-watt', [HomeController::class, 'about']);
+
+Route::get('/aktuellt', [HomeController::class, 'aktuellt']);
+
+

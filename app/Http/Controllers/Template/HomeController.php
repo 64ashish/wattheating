@@ -23,4 +23,14 @@ class HomeController extends Controller
     {
         return view('pages.product');
     }
+
+    public function about():view
+    {
+        return view('pages.about');
+    }
+
+    public function aktuellt():view
+    {
+        return view('pages.news');
+    }
 }
