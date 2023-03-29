@@ -1,5 +1,5 @@
 <x-main-layout>
-<div class="bg-[#f9f9f9] pt-[120px] px-4 sm:px-[10%]">
+<div class="bg-[#f9f9f9] pt-[146px] px-4 sm:px-[10%]">
     <div >
         <div class="mt-14 pb-6 grid grid-cols-2 xl:grid-cols-4 gap-y-7 gap-x-10 text-center text-sm  lg:text-lg">
             <a>

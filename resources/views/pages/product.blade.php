@@ -1,7 +1,12 @@
 <x-main-layout>
-    <div class=" max-w-3xl lg:max-w-none w-full m-auto pt-[120px]">
-        <div class="grid grid-cols-1 lg:grid-cols-2 px-4 lg:gap-x-10">
-            <div>
+    <div class=" max-w-3xl lg:max-w-none w-full m-auto pt-[146px]">
+        <div class="grid grid-cols-1 lg:grid-cols-2 px-4 lg:gap-x-10 overflow-hidden lg:overflow-auto">
+            <div >
+                <div class="flex justify-end -mb-28  relative ">
+                    <a class="-mr-8">
+                        <img src="/images/popularbadge.svg" class="h-40  ">
+                    </a>
+                </div>
                 <div class="bg-[#f9f9f9]">
                     <img src="/images/radiator.png">
                 </div>
@@ -62,7 +67,7 @@
                                     </div>
                                 </li>
                                 <li>
-                                    <div class="p-4 bg-[#e5e5e5] border-b border-[#cacaca] flex justify-between items-center">
+                                    <div class="p-4 bg-[#f9f9f9] border-b border-[#cacaca] flex justify-between items-center">
                                       <span>  Dokument & Filer</span>
                                         <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" class="ml-3 w-5 h-5 ">
                                             <path stroke-linecap="round" stroke-linejoin="round" d="M19.5 8.25l-7.5 7.5-7.5-7.5" />
@@ -78,7 +83,7 @@
                                     </div>
                                 </li>
                                 <li>
-                                    <div class="p-4 bg-[#e5e5e5] border-b border-[#cacaca] flex justify-between items-center">
+                                    <div class="p-4 bg-[#f9f9f9] border-b border-[#cacaca] flex justify-between items-center">
                                       <span>  Effektkalkylator</span>
                                         <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" class="ml-3 w-5 h-5 ">
                                             <path stroke-linecap="round" stroke-linejoin="round" d="M19.5 8.25l-7.5 7.5-7.5-7.5" />
