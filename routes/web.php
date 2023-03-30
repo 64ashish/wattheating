@@ -26,4 +26,7 @@ Route::get('/om-watt', [HomeController::class, 'about']);
 
 Route::get('/aktuellt', [HomeController::class, 'aktuellt']);
 
+Route::get('/garanti', [HomeController::class, 'garanti']);
+
+Route::get('/kontakt', [HomeController::class, 'kontakt']);
 

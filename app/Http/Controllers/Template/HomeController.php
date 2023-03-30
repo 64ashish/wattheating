@@ -33,4 +33,14 @@ class HomeController extends Controller
     {
         return view('pages.news');
     }
+
+    public function garanti():view
+    {
+        return view('pages.guarantee');
+    }
+
+    public function kontakt():view
+    {
+        return view('pages.contact');
+    }
 }
