@@ -22,8 +22,6 @@ Route::get('/product', [HomeController::class, 'product']);
 
 Route::get('/om-watt', [HomeController::class, 'about']);
 
-Route::get('/om-watt', [HomeController::class, 'about']);
-
 Route::get('/aktuellt', [HomeController::class, 'aktuellt']);
 
 Route::get('/aktuellt/single', [HomeController::class, 'single']);
