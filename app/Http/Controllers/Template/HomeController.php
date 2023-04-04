@@ -39,6 +39,11 @@ class HomeController extends Controller
         return view('pages.guarantee');
     }
 
+    public function single():view
+    {
+        return view('pages.single-news');
+    }
+
     public function kontakt():view
     {
         return view('pages.contact');
