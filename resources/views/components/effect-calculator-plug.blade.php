@@ -4,7 +4,7 @@
 {{--             style="--}}
 {{--            background-image: url('/images/bild50.jpeg');--}}
 {{--        ">--}}
-            <div class="  py-[150px] px-24 bg-no-repeat bg-no-repeat bg-cover relative	h-full"
+            <div class="  py-36 px-24 bg-no-repeat bg-no-repeat bg-cover relative	h-full"
                  style="
             background-image: url('/images/bild50.jpeg');
         ">
@@ -12,11 +12,11 @@
         </div>
     </div>
 
-    <div class="py-[75px] px-[50px] lg:py-[150px] lg:pl-24 lg:pr-11 lg:col-span-3  flex justify-center flex-col
+    <div class="py-20 px-12 lg:py-36 lg:pl-24 lg:pr-11 lg:col-span-3  flex justify-center flex-col
             ">
         <div class="">
           <p class="text-3xl lg:text-4xl font-semibold mb-7">  Prova vår effektkalkylator</p>
-            <p class="mt-0.5 text-[15px] md:text-lg mb-8">
+            <p class="mt-0.5 text-sm md:text-lg mb-8">
                 Med vår effektkalkylator kan du direkt på vår hemsida räkna ut vilken produkt som passar bäst för dina behov.
             </p>
 
