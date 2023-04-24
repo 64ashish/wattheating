@@ -1,5 +1,5 @@
 <x-main-layout>
-    <div class=" max-w-3xl lg:max-w-none w-full m-auto pt-[146px]">
+    <div class=" max-w-3xl lg:max-w-none w-full m-auto pt-36.5">
         <div class="grid grid-cols-1 lg:grid-cols-2 px-4 lg:gap-x-10 overflow-hidden lg:overflow-auto">
             <div >
                 <div class="flex justify-end -mb-28  relative ">
@@ -7,30 +7,34 @@
                         <img src="/images/popularbadge.svg" class="h-40  ">
                     </a>
                 </div>
-                <div class="bg-[#f9f9f9]">
+                <div class="bg-alabaster-50">
                     <img src="/images/radiator.png">
                 </div>
                 <ol class="inline-flex gap-4 my-4">
-                    <li  class="bg-[#f9f9f9]">
+                    <li  class="bg-alabaster-50">
                         <img src="/images/radiator.png">
                     </li>
-                    <li class="bg-[#f9f9f9]">
+                    <li class="bg-alabaster-50">
                         <img src="/images/radiator.png">
                     </li>
-                    <li class="bg-[#f9f9f9]">
+                    <li class="bg-alabaster-50">
                         <img src="/images/radiator.png">
                     </li>
-                    <li class="bg-[#f9f9f9]">
+                    <li class="bg-alabaster-50">
                         <img src="/images/radiator.png">
                     </li>
                 </ol>
             </div>
             <div>
-                <div class="mt-9 pb-6 ">
-                    <a href="" class="text-[#292929]">Radiatorer</a>
+                <div class="mt-9 pb-6 flex items-center ">
+                    <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5"
+                         stroke="currentColor" class="w-4 h-4 stroke-alabaster-600">
+                        <path stroke-linecap="round" stroke-linejoin="round" d="M15.75 19.5L8.25 12l7.5-7.5" />
+                    </svg>
+                    <a href="" class="text-alabaster-600">Radiatorer</a>
                 </div>
                 <div>
-                    <h1 class="text-[28px]">
+                    <h1 class="text-3xl font-semibold">
                         Radiator Plan, WRP
                     </h1>
                     <div class="mt-10 text-lg">
@@ -50,7 +54,7 @@
                         <div>
                             <ul>
                                 <li>
-                                    <div class="p-4 bg-[#e5e5e5] border-b border-[#cacaca] flex justify-between items-center">
+                                    <div class="p-4 bg-alabaster-200 text-lg border-b border-mine-shaft-200 flex justify-between items-center">
                                        <span>Teknisk info</span>
                                         <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" class="ml-3 w-5 h-5 ">
                                             <path stroke-linecap="round" stroke-linejoin="round" d="M19.5 8.25l-7.5 7.5-7.5-7.5" />
@@ -67,7 +71,7 @@
                                     </div>
                                 </li>
                                 <li>
-                                    <div class="p-4 bg-[#f9f9f9] border-b border-[#cacaca] flex justify-between items-center">
+                                    <div class="p-4 bg-alabaster-50 text-lg  border-b border-mine-shaft-200  flex justify-between items-center">
                                       <span>  Dokument & Filer</span>
                                         <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" class="ml-3 w-5 h-5 ">
                                             <path stroke-linecap="round" stroke-linejoin="round" d="M19.5 8.25l-7.5 7.5-7.5-7.5" />
@@ -83,7 +87,7 @@
                                     </div>
                                 </li>
                                 <li>
-                                    <div class="p-4 bg-[#f9f9f9] border-b border-[#cacaca] flex justify-between items-center">
+                                    <div class="p-4 bg-alabaster-50  text-lg  border-b border-mine-shaft-200  flex justify-between items-center">
                                       <span>  Effektkalkylator</span>
                                         <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" class="ml-3 w-5 h-5 ">
                                             <path stroke-linecap="round" stroke-linejoin="round" d="M19.5 8.25l-7.5 7.5-7.5-7.5" />

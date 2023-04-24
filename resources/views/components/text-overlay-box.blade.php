@@ -14,7 +14,7 @@
         <a href="{{ $url }}"
         class="text-overlay-box absolute  top-0 left-0 right-0 bottom-0 hover:bg-primary-500 hover:bg-opacity-70 text-white flex flex-col
         justify-center items-center">
-            <p class="hidden text-[26px] font-semibold">{{ $title }}</p>
+            <p class="hidden text-2xl font-semibold">{{ $title }}</p>
             <p  class="hidden text-lg	font-normal">Visa alla</p>
         </a>
 {{--        <img src="/images/WR4_3.png" >--}}

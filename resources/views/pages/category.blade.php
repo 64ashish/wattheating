@@ -1,42 +1,42 @@
 <x-main-layout>
-<div class="bg-[#f9f9f9] pt-[146px] px-4 sm:px-[10%]">
+<div class="bg-alabaster-50 pt-36.5 px-4 sm:px-10%">
     <div >
-        <div class="mt-14 pb-6 grid grid-cols-2 xl:grid-cols-4 gap-y-7 gap-x-10 text-center text-sm  lg:text-lg">
+        <div class="mt-14 pb-20 grid grid-cols-2 xl:grid-cols-4 gap-y-7 gap-x-10 text-center text-sm  lg:text-lg">
             <a>
-                <div class=" border-2 border-[#292929] py-4 px-9 rounded-full
-                    hover:border-[#00b5cc] hover:bg-[#00b5cc] hover:text-white">
+                <div class=" border-2 border-mine-shaft-900 py-4 px-9 rounded-full
+                    hover:border-primary-500 hover:bg-primary-500 hover:text-white">
                     Radiatorer
                 </div>
             </a>
 
             <a>
-                <div class=" border-2 border-[#292929] py-4 px-9 rounded-full
-                hover:border-[#00b5cc] hover:bg-[#00b5cc] hover:text-white">
+                <div class=" border-2 border-mine-shaft-900 py-4 px-9 rounded-full
+                hover:border-primary-500  hover:bg-primary-500 hover:text-white">
                     Konvektorer
                 </div>
             </a>
             <a>
-                <div class=" border-2 border-[#292929] py-4 px-9 rounded-full
-                hover:border-[#00b5cc] hover:bg-[#00b5cc] hover:text-white">
+                <div class=" border-2 border-mine-shaft-900 py-4 px-9 rounded-full
+                hover:border-primary-500  hover:bg-primary-500 hover:text-white">
                     Handdukstorkar
                 </div>
             </a>
             <a>
-                <div class=" border-2 border-[#292929] py-4 px-9 rounded-full
-                hover:border-[#00b5cc] hover:bg-[#00b5cc] hover:text-white">
+                <div class=" border-2 border-mine-shaft-900 py-4 px-9 rounded-full
+                hover:border-primary-500  hover:bg-primary-500 hover:text-white">
                     Tillbehör
                 </div>
             </a>
         </div>
     </div>
 
-    <div class="max-w-4xl m-auto p-[2%] border border-[#e5e5e5] text-center text-sm mb-12">
+    <div class="max-w-4xl m-auto p-[2%] border border-alabaster-200 text-center text-sm mb-12">
         <p>
             Radiatorer för vattenburen värme i horisontellt eller vertikalt utförande. Olika anslutningsmodeller och
             design för att passa Er installation eller byggnadstyp.
         </p>
 
-        <a class="block pt-20 text-[#00b5cc] underline">
+        <a class="block pt-20 text-primary-500 underline font-bold">
             Klicka här för att jämföra våra populäraste modeller!
         </a>
 

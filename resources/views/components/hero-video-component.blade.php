@@ -9,7 +9,7 @@
             </p>
             <div class="hidden lg:block">
                 <form>
-                    <div class="flex w-[500px] justify-evenly gap-4">
+                    <div class="flex w-125 justify-evenly gap-4">
                         <input type="text" class="w-11/12 h-10 font-light	" placeholder="Sök här...">
                         <button class="w-10 h-10 border border-white  rounded-full flex justify-center items-center">
                             <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" class="w-6 h-6 stroke-white">

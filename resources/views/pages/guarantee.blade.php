@@ -1,17 +1,17 @@
 <x-main-layout>
-    <div class=" max-w-3xl lg:max-w-none w-full m-auto pt-[146px]">
+    <div class=" max-w-3xl lg:max-w-none w-full m-auto pt-36.5">
         <h1 class="text-center mt-9 mb-10  text-4xl font-semibold">Garanti</h1>
-        <h2 class="lg:m-auto max-w-[800px] text-[28px] mx-10 text-center">
+        <h2 class="lg:m-auto max-w-3xl text-3xl mx-10 text-center font-bold">
             Tack vare nedanstående certifikat och standarder lämnar vi 10 års garanti på nästan samtliga produkter.
         </h2>
         <div>
             <img class="w-40 h-40 m-auto mt-10" src="/images/del_garanti.svg">
         </div>
 
-        <div class="grid grid-cols-1 lg:grid-cols-3 gap-4 mt-11 px-[15px] lg:px-[10%]">
-            <div class="p-10 shadow-lg flex flex-col justify-between">
+        <div class="grid grid-cols-1 lg:grid-cols-3 gap-4 mt-11 px-4 lg:px-10%">
+            <div class="p-10 shadow-3xl  flex flex-col justify-between">
                 <div>
-                    <h3 class="text-[#00b5cb] text-[22px] mt-2.5 mb-5">EN 442</h3>
+                    <h3 class="text-primary-500 text-2xl mt-2.5 mb-5">EN 442</h3>
                     <div class="font-bold text-lg mb-5">
                         EN 442 standarden består av tre olika områden:
                     </div>
@@ -37,9 +37,9 @@
 
             </div>
 
-            <div class="p-10 shadow-lg flex flex-col justify-between">
+            <div class="p-10 shadow-3xl  flex flex-col justify-between">
                 <div>
-                    <h3 class="text-[#00b5cb] text-[22px] mt-2.5 mb-5">VDI 6036</h3>
+                    <h3 class="text-primary-500 text-2xl mt-2.5 mb-5">VDI 6036</h3>
 
 
                     <p class="text-lg mb-6">
@@ -57,9 +57,9 @@
 
             </div>
 
-            <div class="p-10 shadow-lg flex flex-col justify-between">
+            <div class="p-10 shadow-3xl  flex flex-col justify-between">
                 <div>
-                    <h3 class="text-[#00b5cb] text-[22px] mt-2.5 mb-5">CE-märkning
+                    <h3 class="text-primary-500 text-2xl mt-2.5 mb-5">CE-märkning
                     </h3>
                     <div class="font-bold text-lg mb-5">
                         CE-märkning består av två olika områden:
@@ -88,7 +88,7 @@
             <p class="text-center text-lg font-semibold">
                 För fullständiga garantivillkor, ladda ner dokumentet nedan.
             </p>
-            <div class="w-64 text-center mt-10 bg-[#00b5cc] rounded-full py-[15px] px-[35px] text-white text-lg mb-20">
+            <div class="w-64 text-center mt-10 bg-primary-500 rounded-full py-4 px-9 text-white text-lg mb-20">
                 Garantivillkor (pdf)
             </div>
         </div>

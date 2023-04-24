@@ -1,5 +1,5 @@
 <x-main-layout>
-    <div class=" max-w-3xl lg:max-w-none w-full m-auto pt-[146px]">
+    <div class=" max-w-3xl lg:max-w-none w-full m-auto pt-36.5">
         <div class="flex flex-col alternate-image">
             <div class="flex flex-col lg:flex-row lg:flex-row-reverse 	">
                 <div class="w-full lg:w-1/2">

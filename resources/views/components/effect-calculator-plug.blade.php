@@ -20,7 +20,7 @@
                 Med vår effektkalkylator kan du direkt på vår hemsida räkna ut vilken produkt som passar bäst för dina behov.
             </p>
 
-            <a href="#"  class="border-2 border-[#292929] py-3 px-9	text-center text-[15px] md:text-lg rounded-full">
+            <a href="#"  class="border-2 border-mine-shaft-900 py-3 px-9	text-center text-sm md:text-lg rounded-full">
                 Prova nu
             </a>
         </div>
