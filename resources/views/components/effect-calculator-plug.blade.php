@@ -1,14 +1,9 @@
 <div class="grid grid-cols-1 lg:grid-cols-7">
     <div class="lg:col-span-4">
-{{--        <div class=" h-[300px] py-[150px] w-full  lg:h-[491px] bg-no-repeat bg-no-repeat bg-cover	"--}}
-{{--             style="--}}
-{{--            background-image: url('/images/bild50.jpeg');--}}
-{{--        ">--}}
             <div class="  py-36 px-24 bg-no-repeat bg-no-repeat bg-cover relative	h-full"
                  style="
             background-image: url('/images/bild50.jpeg');
         ">
-            {{--        <img src="/images/bild50.jpeg" class="h-[300px]  w-full  lg:h-[491px] object-cover">--}}
         </div>
     </div>
 

@@ -1,4 +1,6 @@
-<div class="contact-plug bg-no-repeat bg-cover bg-center grid grid-cols-1 lg:grid-cols-2">
+<div class="bg-no-repeat bg-cover bg-center grid grid-cols-1 lg:grid-cols-2"
+     style=
+         "background-image: url('/images/watt_road.png')">>
     <div class="py-20 px-12 md:py-[100px] md:py-36 md:px-[100px] text-white ">
         <p class="text-4xl font-semibold	 mb-8">
             Gratis dagen-efter-leverans inom Skåne

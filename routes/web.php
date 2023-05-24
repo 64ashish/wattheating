@@ -30,3 +30,5 @@ Route::get('/garanti', [HomeController::class, 'garanti']);
 
 Route::get('/kontakt', [HomeController::class, 'kontakt']);
 
+Route::get('/private', [HomeController::class, 'privateCustomers']);
+

@@ -48,4 +48,11 @@ class HomeController extends Controller
     {
         return view('pages.contact');
     }
+
+    public function privateCustomers():view
+    {
+        $private = true;
+        return view('pages.private-home',compact('private'));
+    }
+
 }
